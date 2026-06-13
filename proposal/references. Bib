@@ -1,0 +1,267 @@
+@article{roccaforte2026,
+  author    = {G. Roccaforte and others},
+  title     = {Towards a Closed-Loop Bioengineering Framework for Immersive {VR}-Based Telerehabilitation},
+  journal   = {Bioengineering},
+  volume    = {13},
+  number    = {4},
+  pages     = {439},
+  year      = {2026}
+}
+
+@article{ferreira2025,
+  author    = {S. Ferreira and others},
+  title     = {Interventions Based on Biofeedback Systems to Improve Workers' Psychological Well-Being: Systematic Literature Review},
+  journal   = {Journal of Medical Internet Research},
+  volume    = {27},
+  pages     = {e70134},
+  year      = {2025}
+}
+
+@article{leong2025,
+  author    = {D. Leong},
+  title     = {Virtual Reality in Phobia Treatment and the Cultivation of Emotional Resilience},
+  journal   = {Engineering Proceedings},
+  volume    = {108},
+  pages     = {16},
+  year      = {2025}
+}
+
+@article{he2025,
+  author    = {Y. He and A. Alkurdi and others},
+  title     = {A Comprehensive Review of Machine Learning Approaches for Anxiety Detection},
+  journal   = {Preprints},
+  year      = {2025},
+  note      = {DOI: 10.20944/preprints202507.2265.v1}
+}
+
+@article{tsai2025,
+  author    = {Y.-Y. Tsai and others},
+  title     = {Photoplethysmography-Based {HRV} Analysis and Machine Learning for Real-Time Stress Quantification},
+  journal   = {APL Bioengineering},
+  volume    = {9},
+  year      = {2025}
+}
+
+@article{orozco2024,
+  author    = {E. Orozco-Mora and others},
+  title     = {Dynamic Difficulty Adaptation Based on Stress Detection in a {VR} Game},
+  journal   = {Electronics},
+  volume    = {13},
+  number    = {12},
+  pages     = {2324},
+  year      = {2024}
+}
+
+@article{mevlevio2024,
+  author    = {D. Mevlevi\v{o}\v{g}lu and S. Tabirca},
+  title     = {A Real-Time {CNN}-Based Portable Anxiety Quantification System},
+  journal   = {Biosensors},
+  volume    = {14},
+  number    = {3},
+  pages     = {131},
+  year      = {2024}
+}
+
+@article{sajno2023,
+  author    = {E. Sajno and others},
+  title     = {Machine Learning in Biosignals Processing for Mental Health},
+  journal   = {Frontiers in Psychology},
+  volume    = {13},
+  pages     = {1066317},
+  year      = {2023},
+  note      = {DOI: 10.3389/fpsyg.2022.1066317}
+}
+
+@article{ancillon2022,
+  author    = {L. Ancillon and others},
+  title     = {Machine Learning for Anxiety Detection Using Biosignals: A Review},
+  journal   = {Diagnostics},
+  volume    = {12},
+  number    = {8},
+  pages     = {1794},
+  year      = {2022},
+  note      = {DOI: 10.3390/diagnostics12081794}
+}
+
+@article{kumar2025,
+  author    = {A. Kumar and A. Haider},
+  title     = {Emotions Recognition Using Machine Learning for Stress and Anxiety Detection},
+  journal   = {International Journal of Advanced Research in Science and Engineering},
+  volume    = {2},
+  year      = {2025}
+}
+
+@article{ritsert2022,
+  author    = {F. Ritsert and others},
+  title     = {Heart and Breathing Rate Variations as Biomarkers for Anxiety Detection},
+  journal   = {Bioengineering},
+  volume    = {9},
+  number    = {11},
+  pages     = {711},
+  year      = {2022},
+  note      = {DOI: 10.3390/bioengineering9110711}
+}
+
+@article{sahebi2024,
+  author    = {A. Sahebi},
+  title     = {Real-Time Panic Attack Detection with Human-Computer Interaction and Wearable Devices},
+  journal   = {International Journal of Advanced Human-Computer Interaction},
+  volume    = {2},
+  number    = {2},
+  year      = {2024}
+}
+
+@article{chung2026,
+  author    = {C. H. Chung and others},
+  title     = {Validity of the Polar {H10} for Heart Rate and Heart Rate Synchrony},
+  journal   = {Sensors},
+  volume    = {26},
+  pages     = {855},
+  year      = {2026}
+}
+
+@article{skala2022,
+  author    = {T. Sk{\'{a}}la and others},
+  title     = {Feasibility of Evaluation of Polar {H10} Chest-Belt {ECG} in Patients with a Broad Range of Heart Conditions},
+  journal   = {Cor et Vasa},
+  volume    = {64},
+  number    = {4},
+  pages     = {411--422},
+  year      = {2022},
+  note      = {DOI: 10.33678/cor.2022.071}
+}
+
+@article{khanna2022,
+  author    = {M. Khanna and others},
+  title     = {Affective Computing and Its Application in Psychotherapy},
+  journal   = {Applied Psychophysiology and Biofeedback},
+  year      = {2022},
+  note      = {DOI: 10.1016/j.yaph.2022.05.004}
+}
+
+@article{miloff2024,
+  author    = {A. Miloff and others},
+  title     = {Single-Session Gamified {VR} Exposure Therapy for Spider Phobia vs.\ Traditional Exposure Therapy: Randomized Controlled Trial},
+  journal   = {Journal of Medical Internet Research},
+  year      = {2024}
+}
+
+@article{moon2025,
+  author    = {D. U. Moon and others},
+  title     = {Cybersickness and Presence in {VR}-Biofeedback for Depression and Anxiety},
+  journal   = {Journal of Psychiatric Research},
+  year      = {2025},
+  note      = {DOI: 10.1016/j.jpsychires.2025.04.047}
+}
+
+@article{vet2025,
+  author    = {{Healthcare (VET Study)}},
+  title     = {A Predictive and Adaptive {VR} Exposure Framework for Spider Fear},
+  journal   = {Healthcare},
+  year      = {2025}
+}
+
+@article{cbtvr2022,
+  author    = {{Frontiers in Psychiatry}},
+  title     = {{CBT} with Adaptive {VR} Exposure vs.\ In-Vivo for Social Anxiety --- Study Protocol},
+  journal   = {Frontiers in Psychiatry},
+  year      = {2022},
+  note      = {DOI: 10.3389/fpsyt.2022.991755}
+}
+
+@article{xu2025,
+  author    = {Q. Xu and others},
+  title     = {Interactive {VR} Mindfulness with Real-Time {HRV} Biofeedback for Anxiety Reduction},
+  journal   = {Applied Psychophysiology and Biofeedback},
+  year      = {2025},
+  note      = {DOI: 10.1007/s10484-025-09718-w}
+}
+
+@inproceedings{chiossi2024,
+  author    = {F. Chiossi and C. Ou and S. Mayer},
+  title     = {Optimizing Visual Complexity for Physiologically-Adaptive {VR/MR} Systems},
+  booktitle = {Proceedings of AVI 2024},
+  address   = {Arenzano, Italy},
+  year      = {2024},
+  note      = {DOI: 10.1145/3656650.3656657}
+}
+
+@inproceedings{ghandi2019,
+  author    = {M. Ghandi},
+  title     = {Cyber-Physical Emotive Spaces: Human Cyborg, Data, and Biofeedback Interaction},
+  booktitle = {Blucher Design Proceedings, eCAADe + SIGraDi},
+  year      = {2019},
+  note      = {DOI: 10.5151/PROCEEDINGS-ECAADESIGRADI2019\_200}
+}
+
+@article{battaglia2020,
+  author    = {J. Battaglia and others},
+  title     = {Instantaneous Spectral Analysis of Heart Rate Variability During Human Fear Learning},
+  journal   = {Frontiers in Physiology},
+  year      = {2020}
+}
+
+@article{nummenmaa2014,
+  author    = {L. Nummenmaa and others},
+  title     = {Bodily Maps of Emotions},
+  journal   = {Proceedings of the National Academy of Sciences USA},
+  volume    = {111},
+  number    = {2},
+  pages     = {646--651},
+  year      = {2014}
+}
+
+@article{craske2014,
+  author    = {M. G. Craske and others},
+  title     = {Maximizing Exposure Therapy: An Inhibitory Learning Approach},
+  journal   = {Behaviour Research and Therapy},
+  volume    = {58},
+  pages     = {10--23},
+  year      = {2014}
+}
+
+@article{rothbaum2000,
+  author    = {B. O. Rothbaum and others},
+  title     = {Effectiveness of Computer-Generated (Virtual Reality) Graded Exposure in Fear of Flying},
+  journal   = {Journal of Consulting and Clinical Psychology},
+  volume    = {68},
+  number    = {3},
+  pages     = {504--507},
+  year      = {2000}
+}
+
+@article{garcia2002,
+  author    = {A. Garcia-Palacios and others},
+  title     = {Virtual Reality in the Treatment of Spider Phobia: A Controlled Study},
+  journal   = {Behaviour Research and Therapy},
+  volume    = {40},
+  number    = {9},
+  pages     = {983--993},
+  year      = {2002}
+}
+
+@article{krijn2004,
+  author    = {M. Krijn and others},
+  title     = {{VR} Exposure Therapy of Anxiety Disorders: A Review},
+  journal   = {Clinical Psychology Review},
+  volume    = {24},
+  number    = {3},
+  year      = {2004}
+}
+
+@book{dsm5tr2022,
+  author    = {{American Psychiatric Association}},
+  title     = {Diagnostic and Statistical Manual of Mental Disorders, 5th Edition, Text Revision ({DSM-5-TR})},
+  year      = {2022},
+  publisher = {American Psychiatric Publishing}
+}
+
+@article{esc1996,
+  author    = {{Task Force of the ESC and NASPE}},
+  title     = {Heart Rate Variability: Standards of Measurement, Physiological Interpretation, and Clinical Use},
+  journal   = {Circulation},
+  volume    = {93},
+  number    = {5},
+  pages     = {1043--1065},
+  year      = {1996}
+}
